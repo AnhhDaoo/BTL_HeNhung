@@ -1,0 +1,9 @@
+link input dataset: 
+
+https://www.kaggle.com/datasets/anhhdaoo/input-vid-yolov8-tracking
+
+
+link report tham khao:
+
+https://drive.google.com/drive/folders/186vYV08NKXYglxJbdMW01lwfyJPyambV?usp=sharing
+
