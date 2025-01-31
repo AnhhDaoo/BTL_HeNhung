@@ -1,4 +1,3 @@
-
 # HỆ THỐNG GIÁM SÁT AN NINH BẰNG HÌNH ẢNH
 
 Ứng dụng sử dụng hình ảnh thu được từ camera để phát hiện người (hoặc vật thể) di chuyển, từ đó đưa ra thông báo cảnh báo **realtime** .
@@ -40,7 +39,7 @@ Các thư viện (packages) cần thiết được mô tả trong tệp `require
 
 #### 4. Chạy ứng dụng
 
-1. Di chuyển vào thư mục `app/`, chạy  :
+- Di chuyển vào thư mục `app/`, chạy:
 
 ```bash
 
@@ -48,7 +47,7 @@ cd ../app
 
 ```
 
-2. Chạy file `testFinal.py` để khởi động ứng dụng  **Security Camera**
+- Chạy file `testFinal.py` để khởi động ứng dụng  **Security Camera**
 
 ```bash
 
